@@ -1,0 +1,131 @@
+header
+{
+    width: 100% !important;
+    min-height: 10vh !important;
+    background-color: black;
+    overflow: auto;
+}
+header img
+{
+    width: 15vw;
+    height: auto;
+    min-height: 15vw;
+}
+.regitre-se
+{
+    color: aqua;
+}
+body 
+{
+    background-color: #323232!important;
+    font-family: 'Times New Roman', Times, serif!important;
+}
+.cabeça
+{
+    float: right;
+    right: 0px;
+    padding: 10px;
+}
+.carousel slide
+{
+    width: 40px,100px !important;
+}
+.id
+{
+    display: flex!important;
+    justify-content: center!important;
+}
+img
+{
+    float: left!important;
+    display: inline-block!important;
+}
+li.beta
+{
+    display: inline-block!important;
+}
+ul
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+label
+{
+    display: grid!important;
+    color: aqua!important;
+    display: inline-block!important;
+    width: 70px!important;
+}
+input
+{
+    display: inline-block!important;
+    display: grid!important;
+    width: 150px!important;
+}
+ul
+{
+    color: aqua;
+}
+footer
+{
+    display: flex;
+}
+.pagamento
+{
+    background-color: lightseagreen!important;
+    float: left;
+    width: 33.33%;
+    height: auto;
+    position: relative;
+    text-align: center;
+    padding: 2%;
+}
+footer img
+{
+    width: 100%;
+    height: auto;
+}
+.contatos
+{
+    background-color: lightskyblue!important;
+    width: 33.33%;
+    text-align: center;
+    object-position: center;
+    height: auto;
+    padding: 2%;
+}
+.midia
+{
+    background-color: lightslategray!important;
+    width: 33.33%;
+    float: right;
+    height: auto;
+    text-align: center;
+    padding: 2%;
+}
+.card
+{
+    margin: 20px;
+    display: inline-block !important;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    overflow: auto;
+}
+.todosositens
+{
+    background-color: black;
+}
+.lado img
+{
+    width: 50px;
+}
+.reviewed-product
+{
+    color: rgb(200, 200, 200);
+}
+.itens
+{
+    color: rgb(200, 200, 200);
+}
